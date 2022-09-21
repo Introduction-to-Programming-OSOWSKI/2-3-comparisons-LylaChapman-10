@@ -3,7 +3,7 @@ def greaterThan(x,y):
         return  True
     else:
         return False
-def smallerThan(x,y):
+def lessThan(x,y):
     if x < y:
         return True
     else:
